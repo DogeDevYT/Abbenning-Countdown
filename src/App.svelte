@@ -20,7 +20,7 @@
 			<span>{remaining.seconds} seconds</span>
 			{:else}
 			<h2 style="font-weight: bold;">THE ABBENNING HAS BEGUN</h2>
-			<p>Posting Updates on Snapcat: raghavthemonkey</p>
+			<p>🎉</p>
 			{/if}
 		</div>
 	</Countdown>
