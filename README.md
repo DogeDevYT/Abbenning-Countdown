@@ -1,4 +1,4 @@
-# unresponsive🚀copy and paste🚀plagiarized🚀installing packages to do your job for you🚀monkey coding🚀 
+# unresponsive🚀copy and paste🚀plagiarized🚀installing packages to do your job for you🚀monkey coding🚀
 
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
