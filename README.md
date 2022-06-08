@@ -1,5 +1,7 @@
 # unresponsive🚀copy and paste🚀plagiarized🚀installing packages to do your job for you🚀monkey coding🚀
 
+![woe](https://user-images.githubusercontent.com/52612977/172643518-41430469-843d-4df7-bbcb-f0599713f7ba.gif)
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
