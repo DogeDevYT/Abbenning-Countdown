@@ -6,9 +6,9 @@
 </script>
 
 <main>
-	<h1>The Abbenning Finishes In</h1>
+	<h1>The Abbenning 2.0 Starts In</h1>
 	
-	<Countdown from="2022-08-01 00:00:00" dateFormat="YYYY-MM-DD H:m:s" zone="America/New_York" let:remaining>
+	<Countdown from="2023-05-22 00:00:00" dateFormat="YYYY-MM-DD H:m:s" zone="America/New_York" let:remaining>
 		<div class="timer">
 			{#if remaining.done === false}
 			<span>{remaining.years} years</span>
@@ -19,7 +19,7 @@
 			<span>{remaining.minutes} minutes</span>
 			<span>{remaining.seconds} seconds</span>
 			{:else}
-			<h2 style="font-weight: bold;">THE ABBENNING HAS CONCLUDED</h2>
+			<h2 style="font-weight: bold;">THE ABBENNING HAS BEGUN!</h2>
 			<p>🎉</p>
 			{/if}
 		</div>
